@@ -1,6 +1,6 @@
 ﻿# AZ-020：适用于 AWS 开发人员的 Microsoft Azure 解决方案
 
-> **[AZ-020 实验室说明](https://microsoftlearning.github.io/AZ-020-Microsoft-Azure-solutions-for-AWS-developers/)**
+> **[AZ-020 实验室说明](https://microsoftlearning.github.io/AZ-020ZH-Microsoft-Azure-solutions-for-AWS-developers/)**
 
 ## 在本课程中使用 AZ-204 实验室的注意事项
 
