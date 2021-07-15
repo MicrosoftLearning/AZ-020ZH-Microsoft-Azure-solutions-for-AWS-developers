@@ -8,7 +8,7 @@
 
 AZ-020 实验室是 AZ-204 实验室的子集，直接从 [AZ-204 实验室资料库](https://github.com/MicrosoftLearning/AZ-204ZH-DevelopingSolutionsforMicrosoftAzure)获取。
 
-AZ-020 课程模块编号到 AZ-204 实验室编号的**[映射](mapping.md)** 可在 `../Instructions/labs` 文件夹自述文件中找到。
+AZ-020 课程模块编号到 AZ-204 实验室编号的 **[映射](mapping.md)** 可在 `../Instructions/labs` 文件夹自述文件中找到。
 
 ## 我们要做什么？
 

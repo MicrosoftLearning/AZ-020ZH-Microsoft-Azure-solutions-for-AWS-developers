@@ -83,7 +83,7 @@
 
 - 禁用 PowerShell 7 更新通知
 
-  1. [创建名为 ``POWERSHELL_UPDATECHECK`` 的环境变量](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_update_notifications?view=powershell-7)
+  1. [创建的环境变量](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_update_notifications?view=powershell-7) 名为 ``POWERSHELL_UPDATECHECK``
   
   1. 将环境变量的值设置为 ``Off`` （区分大小写）
 
